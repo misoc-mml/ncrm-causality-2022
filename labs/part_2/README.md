@@ -4,5 +4,6 @@ In this part, we will combine our knowledge of regression and classification met
 
 ## Content
 
-1. [Exercise_IHDP](Exercise_IHDP.ipynb) - guided example with [IHDP](data) dataset.
-2. [Exercise_JOBS](Exercise_JOBS.ipynb) - do it yourself with [JOBS](data) dataset.
+1. [Tutorial_Synth](Tutorial_Synth.ipynb) - guided example with a synthetic dataset.
+2. [Exercise_IHDP](Exercise_IHDP.ipynb) - do it yourself with [IHDP](data) dataset.
+3. [Exercise_JOBS](Exercise_JOBS.ipynb) - (optional) do it yourself with [JOBS](data) dataset.
