@@ -6,17 +6,17 @@
 	- Supervised ML
 	- Regression classification
 	- Random forests
-- 10:30-11:50 *Drinks Break*
-- 11:50-13:20 **Python practical 1**
+- 10:30-10:50 *Drinks Break*
+- 10:50-12:30 **Python practical 1**
 	- Using Python within *Google Colab* to train, test and assess
-- 13:20-14:00 **Lunch Break**
-- 14:00-14:45 **Causal inference and ML**
+- 12:30-13:30 **Lunch Break**
+- 13:30-14:30 **Causal inference and ML**
 	- Potential outcomes and average treatment effects
 	- No unobserved confounding: handling covariate differences
 	- Regression and propensity scores
-- 14:45-16:30 **Python practical 2**
+- 14:30-16:30 **Python practical 2**
     - Using Python to estimate causal effects using *Google Colab*
-- 3:30 *Drinks available*
+- 15:00 *Drinks available*
 - 16:30-17:00 **Consolidation and Discussion**
 
 ## Signing-up for Google Colab
