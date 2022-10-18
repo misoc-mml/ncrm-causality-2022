@@ -32,6 +32,7 @@
 	- https://doi.org/10.1145/3397269
 	- http://arxiv.org/abs/2002.02770
 - [EconML](https://econml.azurewebsites.net/index.html).
+- Causal decision making [link](https://pubsonline.informs.org/doi/abs/10.1287/ijds.2021.0006).
 - Python [courses](https://docs.python-guide.org/intro/learning/).
 - Scikit-learn [docs](https://scikit-learn.org/stable/).
 - Scientific Python ecosystem - [SciPy](https://www.scipy.org/).
